@@ -2,6 +2,7 @@
   "name": "my-smart-home-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://abhijeetr7.github.io/my-smart-home-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
